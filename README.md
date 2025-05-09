@@ -114,7 +114,3 @@ Emerging methods such as machine learning, geospatial analysis, and social media
 Data used in this project were obtained from **Health Canada’s Canadian Student Tobacco, Alcohol and Drugs Survey (CSTADS)**, conducted by CCI Research Inc. (2021–2022).
 
 > *Health Canada has not reviewed, approved, or endorsed this research. Any views or conclusions expressed do not necessarily represent those of Health Canada.*
-
----
-
-Would you like a template folder structure to match this `README.md` or help writing the Jupyter notebook for your analysis?
