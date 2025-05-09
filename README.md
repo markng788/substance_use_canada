@@ -4,7 +4,7 @@
 
 This project analyzes adolescent substance use trends and risk factors in Canada using the **2021–2022 Canadian Student Tobacco, Alcohol, and Drugs Survey (CSTADS)**. Leveraging both descriptive and predictive analytics, we aim to uncover insights that can inform evidence-based prevention strategies for educators, healthcare practitioners, and policymakers.
 
-##Disclaimer: 
+## Disclaimer: 
 This project aims to demonstrate the use of different data analytic models in analysing the substance use problem in Canada. The calculations of some variables were different from the official results (with weighting). Please use the official results in formal and academic studies. 
 
 ---
