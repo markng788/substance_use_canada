@@ -55,7 +55,7 @@ This project investigates:
 
 By combining epidemiological insight with data science methods, this study offers:
 
-* Predictive models to identify high-risk populations
+* Predictive models to identify key determinants
 * Regional and demographic insights to customize prevention efforts
 * Evidence to support community-based and policy-level interventions
 
@@ -98,7 +98,8 @@ Emerging methods such as machine learning, geospatial analysis, and social media
 * `pandas` for data handling
 * `numpy` for numerical analysis
 * `seaborn`, `matplotlib` for visualizations
-* `scikit-learn` for predictive models (logistic regression, decision trees)
+* `scikit-learn` for predictive models (logistic regression)
+* PowerBI for data visualization
 
 ---
 
